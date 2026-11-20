@@ -1,0 +1,6 @@
+confusion,errors of this type (3 seeds),clip,seeds wrong,speech-only same error,mean F0 Hz (clip / her avg),F0 range Hz,duration s,nearest training emotion (prosody)
+happy -> angry,556,YAF_love_happy,3/3,3/3,282 / 281,192 / 190,1.41 / 1.67,angry
+angry -> fear,443,OAF_hash_angry,3/3,2/3,270 / 257,53 / 118,1.63 / 1.48,happy
+pleasant surprise -> disgust,348,OAF_time_ps,3/3,3/3,233 / 224,225 / 209,2.14 / 2.00,disgust
+happy -> disgust,345,OAF_dime_happy,3/3,3/3,269 / 263,277 / 274,1.89 / 1.97,happy
+angry -> neutral,311,YAF_pick_angry,3/3,2/3,242 / 242,60 / 146,2.02 / 2.04,neutral

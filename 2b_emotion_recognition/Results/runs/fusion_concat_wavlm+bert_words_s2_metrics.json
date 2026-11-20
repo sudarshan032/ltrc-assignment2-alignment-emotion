@@ -1,0 +1,12 @@
+{
+ "name": "fusion_concat_wavlm+bert_words_s2",
+ "pipeline": "fusion",
+ "speech": "wavlm",
+ "text": "bert",
+ "fusion": "concat",
+ "split": "words",
+ "seed": 2,
+ "acc": 1.0,
+ "macro_f1": 1.0,
+ "n_test": 420
+}

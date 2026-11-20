@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.pyc
+# 2a: adapted acoustic model is 92 MB; rebuilt by run_pipeline.sh in ~30 s
+2a_forced_alignment/models/english_us_arpa_adapted.zip
+# 2b: dataset symlink, feature cache (5 GB, rebuilt by the pipelines), local logs
+2b_emotion_recognition/data/
+2b_emotion_recognition/cache/
+2b_emotion_recognition/logs/
+# 2b: only seed-0 checkpoints are kept (seeds 1-2 are 270 MB)
+2b_emotion_recognition/checkpoints/*_s1.pt
+2b_emotion_recognition/checkpoints/*_s2.pt
+# 2a: the provided audio is licensed corpus data (BU Radio News: LDC; ISLE: ELRA); not redistributed
+2a_forced_alignment/data/wav/
+2a_forced_alignment/corpus/**/*.wav
+# 2a: local copies of the licensed ISLE audio used for hand labelling; G2P training log; labelling notes
+2a_forced_alignment/manual_labels/*.wav
+2a_forced_alignment/manual_labels/HOW_TO.txt
+2a_forced_alignment/logs_g2p/
+
+# 2b: only the speech unseen-speaker embeddings are used (fewshot.py)
+2b_emotion_recognition/Results/runs/*_embeddings.npz
+!2b_emotion_recognition/Results/runs/speech_*_spk_*_embeddings.npz

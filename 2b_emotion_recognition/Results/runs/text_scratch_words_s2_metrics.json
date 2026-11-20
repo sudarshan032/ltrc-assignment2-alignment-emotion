@@ -1,0 +1,10 @@
+{
+ "name": "text_scratch_words_s2",
+ "pipeline": "text",
+ "features": "scratch",
+ "split": "words",
+ "seed": 2,
+ "acc": 0.14285714285714285,
+ "macro_f1": 0.03571428571428571,
+ "n_test": 420
+}

@@ -1,0 +1,12 @@
+{
+ "name": "fusion_gmu_mfcc+scratch_spk_YAF_s1",
+ "pipeline": "fusion",
+ "speech": "mfcc",
+ "text": "scratch",
+ "fusion": "gmu",
+ "split": "spk_YAF",
+ "seed": 1,
+ "acc": 0.47285714285714286,
+ "macro_f1": 0.47306493162011043,
+ "n_test": 1400
+}

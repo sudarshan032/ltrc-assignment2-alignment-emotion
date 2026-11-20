@@ -1,0 +1,10 @@
+{
+ "name": "text_bert_words_s2",
+ "pipeline": "text",
+ "features": "bert",
+ "split": "words",
+ "seed": 2,
+ "acc": 0.14285714285714285,
+ "macro_f1": 0.04328301324009479,
+ "n_test": 420
+}

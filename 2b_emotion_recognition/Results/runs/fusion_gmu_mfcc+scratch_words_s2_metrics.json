@@ -1,0 +1,12 @@
+{
+ "name": "fusion_gmu_mfcc+scratch_words_s2",
+ "pipeline": "fusion",
+ "speech": "mfcc",
+ "text": "scratch",
+ "fusion": "gmu",
+ "split": "words",
+ "seed": 2,
+ "acc": 0.9976190476190476,
+ "macro_f1": 0.9976188822636493,
+ "n_test": 420
+}

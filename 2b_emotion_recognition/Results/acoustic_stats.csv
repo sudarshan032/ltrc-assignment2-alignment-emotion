@@ -1,0 +1,8 @@
+emotion,mean F0 Hz (OAF / YAF),F0 range Hz (OAF / YAF),duration s (OAF / YAF)
+angry,257 / 242,118 / 146,1.48 / 2.04
+disgust,189 / 220,116 / 192,2.31 / 2.39
+fear,297 / 322,89 / 172,1.54 / 1.62
+happy,263 / 281,274 / 190,1.97 / 1.67
+neutral,188 / 194,35 / 19,2.01 / 2.03
+pleasant surprise,224 / 323,209 / 329,2.00 / 1.88
+sad,202 / 217,153 / 115,2.52 / 2.17

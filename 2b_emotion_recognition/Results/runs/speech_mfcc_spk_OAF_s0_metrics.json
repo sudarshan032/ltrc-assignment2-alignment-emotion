@@ -1,0 +1,10 @@
+{
+ "name": "speech_mfcc_spk_OAF_s0",
+ "pipeline": "speech",
+ "features": "mfcc",
+ "split": "spk_OAF",
+ "seed": 0,
+ "acc": 0.28214285714285714,
+ "macro_f1": 0.22103265556759766,
+ "n_test": 1400
+}

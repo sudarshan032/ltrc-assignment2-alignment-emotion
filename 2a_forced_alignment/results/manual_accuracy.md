@@ -1,0 +1,13 @@
+| run           | tier   |   boundaries |   mean error (ms) |   median (ms) |   within 20 ms (%) |   within 50 ms (%) |
+|:--------------|:-------|-------------:|------------------:|--------------:|-------------------:|-------------------:|
+| arpa          | words  |           21 |              17.8 |          10   |               66.7 |               90.5 |
+| arpa          | phones |           44 |              10.8 |           0   |               77.3 |               95.5 |
+| arpa_finetune | words  |           21 |              17.8 |          10   |               66.7 |               90.5 |
+| arpa_finetune | phones |           44 |              11   |           0   |               77.3 |               95.5 |
+| arpa_adapted  | words  |           21 |              17.8 |          10   |               66.7 |               90.5 |
+| arpa_adapted  | phones |           44 |              11   |           0   |               77.3 |               95.5 |
+| arpa_reduced  | words  |           21 |              17.8 |          10   |               66.7 |               90.5 |
+| arpa_reduced  | phones |           44 |              10.8 |           0   |               77.3 |               95.5 |
+| mfa_ipa       | words  |           21 |             241.9 |          20   |               52.4 |               71.4 |
+| scratch       | words  |           14 |            1026.3 |         446.5 |                0   |                0   |
+| scratch       | phones |           29 |            1227.8 |        1580   |                0   |                3.4 |

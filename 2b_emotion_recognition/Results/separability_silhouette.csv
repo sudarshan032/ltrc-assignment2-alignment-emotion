@@ -1,0 +1,10 @@
+block,test set,"silhouette (mean ± std, 3 seeds)"
+Temporal block (speech),Unseen words (both speakers),0.87 ± 0.01
+Contextual block (text),Unseen words (both speakers),-0.02 ± 0.00
+Fusion block (GMU),Unseen words (both speakers),0.96 ± 0.00
+Temporal block (speech),Unseen speaker: test YAF,0.48 ± 0.02
+Contextual block (text),Unseen speaker: test YAF,0.00 ± 0.00
+Fusion block (GMU),Unseen speaker: test YAF,0.49 ± 0.03
+Temporal block (speech),Unseen speaker: test OAF,0.35 ± 0.06
+Contextual block (text),Unseen speaker: test OAF,0.00 ± 0.00
+Fusion block (GMU),Unseen speaker: test OAF,0.36 ± 0.09

@@ -1,0 +1,12 @@
+{
+ "name": "fusion_gmu_wavlm+bert_words_s0",
+ "pipeline": "fusion",
+ "speech": "wavlm",
+ "text": "bert",
+ "fusion": "gmu",
+ "split": "words",
+ "seed": 0,
+ "acc": 1.0,
+ "macro_f1": 1.0,
+ "n_test": 420
+}

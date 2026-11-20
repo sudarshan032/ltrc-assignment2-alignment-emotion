@@ -1,0 +1,19 @@
+@page { size: A4; margin: 18mm 16mm; }
+body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10.5pt; line-height: 1.45; color: #111; max-width: none; margin: 0; }
+header { text-align: center; margin-bottom: 18px; }
+h1.title { font-size: 20pt; margin: 0 0 4px; }
+p.subtitle { font-size: 12pt; margin: 0 0 4px; color: #444; }
+p.author, p.date { margin: 0; color: #444; }
+h1 { font-size: 15pt; border-bottom: 1px solid #ccc; padding-bottom: 3px; margin-top: 22px; }
+h2 { font-size: 12.5pt; margin-top: 16px; }
+table { border-collapse: collapse; margin: 8px 0 12px; font-size: 9pt; width: 100%; page-break-inside: avoid; }
+th, td { border: 1px solid #bbb; padding: 3px 6px; vertical-align: top; text-align: left; }
+th { background: #f0f0f0; }
+code { font-size: 9pt; background: #f4f4f4; padding: 0 2px; }
+pre { background: #f4f4f4; padding: 8px; font-size: 8.5pt; white-space: pre-wrap; page-break-inside: avoid; }
+figure { margin: 10px 0 14px; page-break-inside: avoid; text-align: center; }
+figure img { max-width: 88%; }
+figcaption { font-size: 9pt; color: #333; margin-top: 4px; text-align: left; }
+ul, ol { padding-left: 22px; }
+li { margin: 1px 0; }
+h1, h2, h3 { break-after: avoid; page-break-after: avoid; }

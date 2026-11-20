@@ -1,0 +1,10 @@
+{
+ "name": "speech_mfcc_spk_YAF_s2",
+ "pipeline": "speech",
+ "features": "mfcc",
+ "split": "spk_YAF",
+ "seed": 2,
+ "acc": 0.4542857142857143,
+ "macro_f1": 0.4049465246641341,
+ "n_test": 1400
+}

@@ -1,0 +1,12 @@
+{
+ "name": "fusion_gmu_wavlm+bert_spk_OAF_s1",
+ "pipeline": "fusion",
+ "speech": "wavlm",
+ "text": "bert",
+ "fusion": "gmu",
+ "split": "spk_OAF",
+ "seed": 1,
+ "acc": 0.4764285714285714,
+ "macro_f1": 0.383099260160188,
+ "n_test": 1400
+}

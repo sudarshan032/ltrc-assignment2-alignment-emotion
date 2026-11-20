@@ -1,0 +1,12 @@
+{
+ "name": "fusion_concat_wavlm+bert_spk_OAF_s2",
+ "pipeline": "fusion",
+ "speech": "wavlm",
+ "text": "bert",
+ "fusion": "concat",
+ "split": "spk_OAF",
+ "seed": 2,
+ "acc": 0.56,
+ "macro_f1": 0.5214288588350388,
+ "n_test": 1400
+}

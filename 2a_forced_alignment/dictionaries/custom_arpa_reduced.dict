@@ -1,0 +1,269 @@
+a	0.04	0.05	2.28	0.73	EY1
+a	0.99	0.01	1.06	0.99	AH0
+abilities	0.99	0.42	0.7	1.05	AH0 B IH1 L AH0 T IY0 Z
+act	0.99	0.35	2.39	0.77	AE1 K T
+administration	0.99	0.5	0.49	1.08	AE0 D M IH2 N IH0 S T R EY1 SH AH0 N
+administrative	0.99	0.15	1.02	0.99	AH0 D M IH1 N AH0 S T R EY2 T IH0 V
+admirers	0.99	0.56	0.99	1.0	AH0 D M AY1 R ER0 Z
+age	0.99	0.58	2.47	0.8	EY1 JH
+ago	0.99	0.71	0.02	1.48	AH0 G OW1
+along	0.99	0.18	0.6	1.12	AH0 L AO1 NG
+an	0.18	0.25	3.0	0.34	AE1 N
+an	0.99	0.23	0.53	1.06	AH0 N
+and	0.62	0.03	0.86	1.08	AH0 N D
+and	0.99	0.06	2.62	0.15	AE1 N D
+another	0.99	0.28	1.13	0.98	AH0 N AH1 DH ER0
+appointment	0.99	0.4	0.24	1.13	AH0 P OY1 N T M AH0 N T
+appointments	0.99	0.46	0.36	1.14	AH0 P OY1 N T M AH0 N T S
+approval	0.99	0.6	0.48	1.1	AH0 P R UW1 V AH0 L
+april	0.99	0.48	3.04	0.56	EY1 P R AH0 L
+as	0.93	0.04	1.18	0.94	AE1 Z
+as	0.99	0.03	1.81	0.68	EH1 Z
+associate	0.1	0.12	0.9	1.08	AH0 S OW1 SH IY0 AH0 T
+associate	0.1	0.12	0.97	1.02	AH0 S OW1 S IY0 EY2
+associate	0.35	0.17	0.85	1.04	AH0 S OW1 SH IY0 EY2 T
+associate	0.7	0.69	0.91	1.03	AH0 S OW1 S IY0 AH0 T
+associate	0.99	0.26	0.78	1.04	AH0 S OW1 S IY0 EY2 T
+association	0.33	0.35	1.2	0.94	AH0 S OW2 SH IY0 EY1 SH AH0 N
+association	0.99	0.45	0.41	1.13	AH0 S OW2 S IY0 EY1 SH AH0 N
+author	0.99	0.42	1.86	0.86	AO1 TH ER0
+b	0.99	0.59	1.53	0.85	B IY1
+bad	0.01	0.19	0.81	1.07	B AE1
+bad	0.99	0.22	0.74	1.03	B AE1 D
+bait	0.09	0.12	0.99	1.01	B EY1
+bait	0.99	0.56	0.99	1.0	B EY1 T
+bar	0.99	0.46	0.45	1.08	B AA1 R
+be	0.24	0.27	0.9	1.01	B IY1
+be	0.99	0.03	0.33	1.05	B IY0
+bed	0.01	0.45	1.17	0.82	B EH1
+bed	0.99	0.6	0.23	1.07	B EH1 D
+began	0.69	0.14	0.28	1.16	B IY0 G AE1 N
+began	0.99	0.07	0.55	1.14	B IH0 G AE1 N
+budget	0.99	0.57	0.89	1.03	B AH1 JH IH0 T
+c's	0.99	0.18	1.0	1.0	S IY1 Z
+campaign	0.99	0.57	0.19	1.11	K AE0 M P EY1 N
+career	0.99	0.61	0.22	1.15	K ER0 IH1 R
+chief	0.99	0.3	0.86	1.01	CH IY1 F
+clerk	0.99	0.48	0.32	1.12	K L ER1 K
+colleagues	0.99	0.45	0.77	1.05	K AA1 L IY0 G Z
+court	0.99	0.54	0.3	1.08	K AO1 R T
+credit	0.02	0.09	0.8	1.15	K R EH1 D AH0
+credit	0.02	0.12	1.0	1.0	K R EH1 D IH0
+credit	0.52	0.16	0.19	1.14	K R EH1 D AH0 T
+credit	0.99	0.53	0.46	1.1	K R EH1 D IH0 T
+crumbling	0.28	0.06	1.03	0.98	K R AH1 M B AH0 L IH0 NG
+crumbling	0.99	0.07	0.71	1.07	K R AH1 M B L IH0 NG
+current	0.32	0.47	0.72	1.05	K AA1 R AH0 N T
+current	0.33	0.25	0.63	1.08	K ER1 N T
+current	0.99	0.46	0.68	1.04	K ER1 AH0 N T
+de	0.07	0.08	0.92	1.02	D IY1
+de	0.12	0.11	0.62	1.16	D EY1
+de	0.99	0.01	0.39	1.22	D AH0
+decade	0.4	0.45	1.0	1.0	D EH0 K EY1 D
+decade	0.99	0.06	0.84	1.07	D EH1 K EY0 D
+deficit	0.99	0.18	1.0	1.0	D EH1 F AH0 S AH0 T
+democratic	0.99	0.14	0.91	1.01	D EH2 M AH0 K R AE1 T IH0 K
+despite	0.99	0.11	2.47	0.53	D IH0 S P AY1 T
+distinguished	0.99	0.19	0.74	1.03	D IH0 S T IH1 NG G W IH0 SH T
+dollars	0.01	0.18	1.0	1.0	D AO1 L ER0 Z
+dollars	0.99	0.45	0.16	1.13	D AA1 L ER0 Z
+dukakis	D UW1 K AA1 K IH0 S
+during	0.01	0.06	1.82	0.57	D ER1 IH0 NG
+during	0.35	0.02	1.41	0.82	D Y UH1 R IH0 NG
+during	0.99	0.02	1.44	0.81	D UH1 R IH0 NG
+edward	0.07	0.02	2.35	0.47	EH1 D W ER0
+edward	0.99	0.41	2.74	0.55	EH1 D W ER0 D
+eight	0.03	0.16	1.24	0.94	EY1
+eight	0.99	0.41	4.09	0.52	EY1 T
+expected	0.01	0.05	1.15	0.94	IH0 K S P EH1 K T IH0
+expected	0.01	0.27	1.19	0.89	IH0 K S P EH1 K T AH0
+expected	0.06	0.04	0.91	1.02	IH0 K S P EH1 K T AH0 D
+expected	0.99	0.3	0.43	1.07	IH0 K S P EH1 K T IH0 D
+five	0.99	0.2	1.07	0.99	F AY1 V
+follow	0.99	0.21	0.74	1.03	F AA1 L OW0
+for	0.59	0.13	1.46	0.81	F AO1 R
+for	0.9	0.04	0.98	1.01	F R ER0
+for	0.99	0.01	0.66	1.14	F ER0
+from	0.36	0.08	0.93	1.03	F R AH1 M
+from	0.99	0.03	0.35	1.27	F ER0 M
+fulfilled	0.99	0.63	0.38	1.11	F UH0 L F IH1 L D
+gains	0.99	0.23	0.38	1.2	G EY1 N Z
+give	0.99	0.06	1.32	0.97	G IH1 V
+governor	0.99	0.41	0.76	1.03	G AH1 V ER0 N ER0
+hard	0.99	0.21	0.46	1.08	HH AA1 R D
+he	0.99	0.03	1.77	0.78	HH IY1
+head	0.01	0.45	1.39	0.7	HH EH1
+head	0.99	0.48	0.15	1.09	HH EH1 D
+hennessy	HH EH1 N AH0 S IY0
+hennessy's	HH EH1 N IH0 S IY0 Z
+his	0.97	0.07	1.13	0.98	HH IH1 Z
+his	0.99	0.03	0.16	1.09	HH IH0 Z
+houses	0.44	0.75	0.12	1.18	HH AW1 S AH0 Z
+houses	0.99	0.37	0.24	1.13	HH AW1 S IH0 Z
+hundred	0.01	0.03	0.57	1.15	HH AH1 N D R IH0
+hundred	0.01	0.06	0.7	1.16	HH AH1 N ER0
+hundred	0.01	0.19	0.81	1.07	HH AH1 N D R AH0
+hundred	0.03	0.01	0.44	1.13	HH AH1 N D ER0
+hundred	0.03	0.07	0.26	1.19	HH AH1 N ER0 D
+hundred	0.14	0.59	0.35	1.12	HH AH1 N D R IH0 D
+hundred	0.38	0.12	0.1	1.15	HH AH1 N D R AH0 D
+hundred	0.99	0.09	0.06	1.16	HH AH1 N D ER0 D
+i	0.99	0.04	2.33	0.61	AY1
+important	0.99	0.23	0.41	1.1	IH0 M P AO1 R T AH0 N T
+in	0.21	0.13	1.73	0.73	IH1 N
+in	0.99	0.02	0.64	1.15	IH0 N
+is	0.52	0.1	0.42	1.21	IH0 Z
+is	0.99	0.07	0.92	1.03	IH1 Z
+it	0.08	0.01	0.62	1.07	IH0
+it	0.1	0.01	3.29	0.08	IH1
+it	0.62	0.46	0.45	1.09	IH0 T
+it	0.99	0.16	1.87	0.78	IH1 T
+j	0.99	0.22	1.19	0.94	JH EY1
+judgeships	JH AH1 JH SH IH2 P S
+judicial	0.99	0.19	0.98	1.0	JH UW0 D IH1 SH AH0 L
+justice	0.12	0.2	0.75	1.05	JH AH1 S T IH0 S
+justice	0.99	0.52	0.64	1.06	JH AH1 S T AH0 S
+last	0.01	0.67	1.45	0.81	L AO1 S T
+last	0.12	0.02	0.85	1.01	L AE1 S
+last	0.15	0.19	0.23	1.07	L AA1 S T
+last	0.99	0.25	0.48	1.04	L AE1 S T
+law	0.43	0.34	0.44	1.05	L AA1
+law	0.99	0.63	0.33	1.05	L AO1
+lawyer	0.03	0.34	0.99	1.01	L AA1 Y ER0
+lawyer	0.37	0.67	0.57	1.05	L AO1 Y ER0
+lawyer	0.99	0.41	0.3	1.06	L OY1 ER0
+leader	0.99	0.45	0.33	1.09	L IY1 D ER0
+led	0.01	0.04	0.85	1.04	L EH1
+led	0.99	0.08	0.75	1.05	L EH1 D
+legal	0.99	0.1	0.52	1.05	L IY1 G AH0 L
+legislative	0.99	0.11	0.93	1.01	L EH1 JH AH0 S L EY2 T IH0 V
+maffy	M AE1 F IY0
+makes	0.99	0.07	0.54	1.12	M EY1 K S
+mandatory	M AE1 N D AH0 T AO2 R IY0
+march	0.99	0.42	0.69	1.05	M AA1 R CH
+margo	M AA1 R G OW0
+massachusetts	0.99	0.7	1.51	0.91	M AE2 S AH0 CH UW1 S AH0 T S
+massive	0.99	0.19	1.15	0.98	M AE1 S IH0 V
+may	0.99	0.04	0.7	1.07	M EY1
+melnicove	M EH1 L N IH0 K OW2 V
+michael	0.99	0.24	1.01	1.0	M AY1 K AH0 L
+million	0.99	0.22	0.18	1.1	M IH1 L Y AH0 N
+more	0.99	0.18	0.51	1.09	M AO1 R
+most	0.12	0.01	0.87	1.01	M OW1 S
+most	0.99	0.16	1.09	0.99	M OW1 S T
+much	0.99	0.16	0.45	1.09	M AH1 CH
+named	0.99	0.34	0.69	1.11	N EY1 M D
+new	0.9	0.03	0.73	1.02	N UW1
+new	0.99	0.11	0.53	1.04	N Y UW1
+nineteen	0.99	0.26	1.42	0.9	N AY1 N T IY1 N
+no	0.99	0.11	1.68	0.86	N OW1
+not	0.01	0.01	1.01	1.0	N AA1
+not	0.99	0.14	0.91	1.01	N AA1 T
+now	0.99	0.32	1.45	0.88	N AW1
+of	0.27	0.09	1.01	0.99	AH1 V
+of	0.99	0.03	0.11	1.43	AH0 V
+one	0.23	0.11	3.04	0.21	HH W AH1 N
+one	0.99	0.16	0.05	1.11	W AH1 N
+opinions	0.99	0.41	0.63	1.06	AH0 P IH1 N Y AH0 N Z
+politicize	P AH0 L IH1 T IH0 S AY2 Z
+president	0.16	0.5	0.88	1.02	P R EH1 Z AH0 D EH2 N T
+president	0.99	0.4	1.27	0.97	P R EH1 Z IH0 D AH0 N T
+promise	0.99	0.3	0.69	1.03	P R AA1 M AH0 S
+r's	0.99	0.45	0.99	1.01	AA1 R Z
+reaches	0.04	0.12	0.93	1.05	R IY1 CH AH0 Z
+reaches	0.99	0.13	0.78	1.07	R IY1 CH IH0 Z
+recently	0.24	0.06	0.94	1.01	R IY1 S AH0 N L IY0
+recently	0.99	0.16	0.86	1.03	R IY1 S AH0 N T L IY0
+reform	0.55	0.55	0.66	1.09	R IH0 F AO1 R M
+reform	0.99	0.42	0.85	1.02	R AH0 F AO1 R M
+remainder	0.19	0.17	0.94	1.01	R IY0 M EY1 N D ER0
+remainder	0.99	0.14	0.96	1.0	R IH0 M EY1 N D ER0
+reports	0.16	0.1	1.03	0.99	R IY0 P AO1 R T S
+reports	0.99	0.4	0.6	1.1	R IH0 P AO1 R T S
+republican	0.02	0.18	1.0	1.0	R IY0 P AH1 B L AH0 K AH0 N
+republican	0.05	0.34	0.87	1.08	R IY0 P AH1 B L IH0 K AH0 N
+republican	0.99	0.24	0.87	1.01	R IH0 P AH1 B L IH0 K AH0 N
+respected	0.02	0.18	1.0	1.0	R IY0 S P EH1 K T AH0 D
+respected	0.05	0.09	0.93	1.04	R IH0 S P EH1 K T IH0
+respected	0.15	0.54	1.35	0.89	R IY0 S P EH1 K T IH0 D
+respected	0.99	0.28	0.92	1.01	R IH0 S P EH1 K T IH0 D
+restore	0.99	0.12	0.91	1.01	R IH0 S T AO1 R
+retirement	0.93	0.67	0.79	1.07	R IY0 T AY1 ER0 M AH0 N T
+retirement	0.99	0.56	0.74	1.08	R IH0 T AY1 ER0 M AH0 N T
+retreat	0.99	0.67	0.54	1.06	R IY0 T R IY1 T
+s	0.99	0.49	1.58	0.78	EH1 S
+said	0.01	0.19	1.98	0.66	S EH1
+said	0.99	0.27	1.62	0.83	S EH1 D
+scholarship	0.99	0.49	0.81	1.09	S K AA1 L ER0 SH IH2 P
+seventy	0.61	0.01	0.33	1.13	S EH1 V AH0 N IY0
+seventy	0.99	0.14	0.81	1.04	S EH1 V AH0 N T IY0
+six	0.99	0.27	0.96	1.01	S IH1 K S
+state	0.02	0.3	1.12	0.98	S T EY1
+state	0.99	0.43	0.14	1.1	S T EY1 T
+state's	0.99	0.06	0.91	1.03	S T EY1 T S
+step	0.99	0.47	0.44	1.08	S T EH1 P
+successor	0.99	0.51	0.32	1.14	S AH0 K S EH1 S ER0
+supreme	0.23	0.08	0.64	1.04	S ER0 P R IY1 M
+supreme	0.99	0.21	0.79	1.02	S AH0 P R IY1 M
+sweeping	0.99	0.08	1.07	0.98	S W IY1 P IH0 NG
+than	0.37	0.11	1.33	0.86	DH AE1 N
+than	0.99	0.04	0.6	1.15	DH AH0 N
+that	0.02	0.24	1.74	0.77	DH AE1
+that	0.06	0.05	0.93	1.03	DH AH0
+that	0.34	0.02	0.91	1.04	DH AH0 T
+that	0.99	0.15	1.25	0.93	DH AE1 T
+the	0.21	0.1	1.26	0.96	DH IY0
+the	0.24	0.01	1.15	0.98	DH AH1
+the	0.99	0.01	1.18	0.97	DH AH0
+these	0.99	0.08	1.59	0.91	DH IY1 Z
+thirty	0.24	0.18	1.17	0.97	TH ER1 T IY2
+thirty	0.99	0.11	1.17	0.97	TH ER1 D IY0
+thomas	0.99	0.22	1.25	0.93	T AA1 M AH0 S
+three	0.99	0.15	1.37	0.94	TH R IY1
+to	0.37	0.06	0.67	1.12	T UW1
+to	0.42	0.01	0.36	1.19	T IH0
+to	0.99	0.02	0.4	1.2	T AH0
+toughest	0.99	0.27	0.98	1.01	T AH1 F AH0 S T
+trial	0.59	0.51	0.57	1.05	T R AY1 AH0 L
+trial	0.99	0.64	0.22	1.09	T R AY1 L
+u	0.99	0.4	1.29	0.87	Y UW1
+urged	0.99	0.14	3.08	0.4	ER1 JH D
+w	0.99	0.36	0.91	1.03	D AH1 B AH0 L Y UW0
+wanted	0.01	0.12	0.82	1.17	W AA1 N T IH0
+wanted	0.01	0.12	0.84	1.15	W AO1 N IH0 D
+wanted	0.01	0.47	0.96	1.02	W AO1 N T IH0 D
+wanted	0.01	0.59	1.45	0.76	W AO1 N T IH0
+wanted	0.04	0.02	0.66	1.06	W AA1 N IH0
+wanted	0.05	0.12	0.88	1.02	W AA1 N T AH0
+wanted	0.65	0.13	0.37	1.08	W AA1 N T AH0 D
+wanted	0.72	0.35	0.5	1.07	W AA1 N T IH0 D
+wanted	0.99	0.07	0.34	1.07	W AA1 N IH0 D
+was	0.01	0.68	0.64	1.11	W AO1 Z
+was	0.06	0.51	0.31	1.18	W AA1 Z
+was	0.19	0.06	0.78	1.08	W AH1 Z
+was	0.99	0.04	0.39	1.17	W AH0 Z
+white	0.01	0.27	0.83	1.09	HH W AY1
+white	0.01	0.46	0.44	1.19	W AY1
+white	0.23	0.41	2.03	0.79	HH W AY1 T
+white	0.99	0.26	0.05	1.1	W AY1 T
+widely	0.99	0.12	0.57	1.1	W AY1 D L IY0
+will	0.55	0.23	0.96	1.01	W IH1 L
+will	0.99	0.02	0.5	1.11	W AH0 L
+won	0.18	0.39	0.76	1.06	W AA1 N
+won	0.99	0.2	0.61	1.06	W AH1 N
+year	0.99	0.5	0.19	1.11	Y IH1 R
+year's	0.99	0.14	0.52	1.08	Y IH1 R Z
+appointment	0.99	0.4	0.24	1.13	AH0 P OY1 N M AH0 N T
+appointment	0.99	0.4	0.24	1.13	AH0 P OY1 N T M AH0 N
+appointment	0.99	0.4	0.24	1.13	AH0 P OY1 N M AH0 N
+appointments	0.99	0.46	0.36	1.14	AH0 P OY1 N M AH0 N T S
+appointments	0.99	0.46	0.36	1.14	AH0 P OY1 N T M AH0 N S
+appointments	0.99	0.46	0.36	1.14	AH0 P OY1 N M AH0 N S
+current	0.32	0.47	0.72	1.05	K AA1 R AH0 N
+current	0.33	0.25	0.63	1.08	K ER1 N
+current	0.99	0.46	0.68	1.04	K ER1 AH0 N
+important	0.99	0.23	0.41	1.1	IH0 M P AO1 R T AH0 N
+president	0.16	0.5	0.88	1.02	P R EH1 Z AH0 D EH2 N
+president	0.99	0.4	1.27	0.97	P R EH1 Z IH0 D AH0 N
+retirement	0.93	0.67	0.79	1.07	R IY0 T AY1 ER0 M AH0 N
+retirement	0.99	0.56	0.74	1.08	R IH0 T AY1 ER0 M AH0 N

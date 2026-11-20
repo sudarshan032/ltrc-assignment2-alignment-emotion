@@ -1,0 +1,8 @@
+model,Unseen words (both speakers),Unseen speaker: test OAF,Unseen speaker: test YAF
+Speech: WavLM + BiLSTM,100.0 ± 0.0,56.5 ± 3.2,63.2 ± 8.3
+Speech: MFCC + BiLSTM (from scratch),99.9 ± 0.1,32.7 ± 9.1,42.8 ± 3.5
+Text: BERT + Transformer,3.8 ± 0.4,3.6 ± 0.0,3.6 ± 0.1
+Text: word emb. + Transformer (from scratch),3.6 ± 0.0,5.4 ± 1.4,4.6 ± 0.9
+"Fusion: WavLM + BERT, gated (GMU)",100.0 ± 0.0,49.5 ± 9.7,63.6 ± 0.2
+"Fusion: WavLM + BERT, concat",100.0 ± 0.0,50.4 ± 3.6,53.6 ± 12.9
+"Fusion: MFCC + word emb., gated (from scratch)",99.6 ± 0.1,27.2 ± 10.2,46.1 ± 6.6

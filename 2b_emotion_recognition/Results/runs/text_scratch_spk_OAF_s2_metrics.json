@@ -1,0 +1,10 @@
+{
+ "name": "text_scratch_spk_OAF_s2",
+ "pipeline": "text",
+ "features": "scratch",
+ "split": "spk_OAF",
+ "seed": 2,
+ "acc": 0.14285714285714285,
+ "macro_f1": 0.04528245342037456,
+ "n_test": 1400
+}

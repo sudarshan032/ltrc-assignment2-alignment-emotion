@@ -1,0 +1,10 @@
+{
+ "name": "speech_wavlm_spk_OAF_s1",
+ "pipeline": "speech",
+ "features": "wavlm",
+ "split": "spk_OAF",
+ "seed": 1,
+ "acc": 0.58,
+ "macro_f1": 0.5287220797281346,
+ "n_test": 1400
+}

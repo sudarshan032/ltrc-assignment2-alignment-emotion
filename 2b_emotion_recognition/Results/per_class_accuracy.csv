@@ -1,0 +1,7 @@
+model,test,angry,disgust,fear,happy,neutral,pleasant surprise,sad
+Speech: WavLM + BiLSTM,unseen words,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+Speech: WavLM + BiLSTM,unseen speaker,34.5,85.8,99.0,3.8,99.2,39.7,87.9
+Speech: MFCC + BiLSTM (from scratch),unseen words,100.0,100.0,100.0,100.0,100.0,99.4,100.0
+Speech: MFCC + BiLSTM (from scratch),unseen speaker,54.9,54.2,65.2,0.0,77.6,3.9,46.2
+"Fusion: WavLM + BERT, gated (GMU)",unseen words,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Fusion: WavLM + BERT, gated (GMU)",unseen speaker,27.7,78.3,94.5,3.2,92.8,50.7,79.0

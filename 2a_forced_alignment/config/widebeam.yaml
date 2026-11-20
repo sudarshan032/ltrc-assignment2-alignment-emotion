@@ -1,0 +1,3 @@
+# wider Viterbi beam for the scratch model (MFA default: beam 10, retry_beam 40)
+beam: 100
+retry_beam: 400

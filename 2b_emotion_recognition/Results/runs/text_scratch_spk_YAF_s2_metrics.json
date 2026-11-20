@@ -1,0 +1,10 @@
+{
+ "name": "text_scratch_spk_YAF_s2",
+ "pipeline": "text",
+ "features": "scratch",
+ "split": "spk_YAF",
+ "seed": 2,
+ "acc": 0.14285714285714285,
+ "macro_f1": 0.05053048420763618,
+ "n_test": 1400
+}

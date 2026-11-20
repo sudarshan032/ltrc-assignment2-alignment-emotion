@@ -1,0 +1,15 @@
+test speaker,true emotion,nearest training emotion (prosody),model's top prediction,agree
+YAF,angry,pleasant surprise,neutral (44 %),False
+YAF,disgust,sad,disgust (84 %),False
+YAF,fear,fear,fear (99 %),True
+YAF,happy,angry,angry (81 %),True
+YAF,neutral,neutral,neutral (99 %),True
+YAF,pleasant surprise,happy,pleasant surprise (66 %),False
+YAF,sad,disgust,sad (94 %),False
+OAF,angry,happy,angry (50 %),False
+OAF,disgust,sad,disgust (88 %),False
+OAF,fear,fear,fear (99 %),True
+OAF,happy,happy,disgust (82 %),False
+OAF,neutral,neutral,neutral (99 %),True
+OAF,pleasant surprise,angry,disgust (82 %),False
+OAF,sad,disgust,sad (82 %),False
